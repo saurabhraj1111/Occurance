@@ -8,6 +8,8 @@ public class Test {
 		Occurence occu=new Occurence();
 		Map<String, Integer> map=occu.CountChar("saurabh raj");
 		System.out.println(map);
+		
+		//second commit
 	}
 
 }
